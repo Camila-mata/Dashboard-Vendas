@@ -17,11 +17,11 @@ com foco em visão gerencial e administrativa.
 - Tooltips
 
 ## 🖼️ Visão do Dashboard
-![Dashboard](imagens/visao_geral.png)
+![Dashboard](Imagens/visao_geral.png)
 ## 📈 Indicadores
-![Dashboard](imagens/indicador.png)
+![Dashboard](Imagens/indicador.png)
 ## 📋 Devoluções
-![Dashboard](imagens/devolucao.png)
+![Dashboard](Imagens/devolucao.png)
 ## 📂 Dados
 Este projeto utiliza dados fictícios, criados para fins educacionais, com foco no desenvolvimento e aprimoramento das minhas competências em Business Intelligence (BI), análise de dados e suporte à tomada de decisão.
 
