@@ -17,7 +17,7 @@ com foco em visão gerencial e administrativa.
 - Tooltips
 
 ## 🖼️ Visão do Dashboard
-![Dashboard](Imagens/visao_geral.png)
+![Dashboard](Imagens/vendas_geral.png)
 ## 📈 Indicadores
 ![Dashboard](Imagens/indicador.png)
 ## 📋 Devoluções
