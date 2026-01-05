@@ -1,5 +1,8 @@
 # 📊 Dashboard de Análise de Dados
 
+🔗 **Acesse o dashboard:**  
+https://app.powerbi.com/links/7frZUL86yH?ctid=14cbd5a7-ec94-46ba-b314-cc0fc972a161&pbi_source=linkShare
+
 ## 🔎 Objetivo
 Dashboard desenvolvido para análise de indicadores e apoio à tomada de decisão,
 com foco em visão gerencial e administrativa.
@@ -18,10 +21,13 @@ com foco em visão gerencial e administrativa.
 
 ## 🖼️ Visão do Dashboard
 ![Dashboard](Imagens/vendas_geral.png)
+
 ## 📊 Indicadores
 ![Dashboard](Imagens/indicador.png)
+
 ## 🔄 Devoluções
 ![Dashboard](Imagens/devolucao.png)
+
 ## 📂 Dados
 Este projeto utiliza dados fictícios, criados para fins educacionais, com foco no desenvolvimento e aprimoramento das minhas competências em Business Intelligence (BI), análise de dados e suporte à tomada de decisão.
 
