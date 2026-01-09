@@ -1,7 +1,8 @@
 # 📊 Dashboard de Análise de Dados
 
-🔗 **Acesse o dashboard:**  
-https://app.powerbi.com/links/7frZUL86yH?ctid=14cbd5a7-ec94-46ba-b314-cc0fc972a161&pbi_source=linkShare
+🔗 **Acesse o dashboard:** 
+
+https://app.powerbi.com/view?r=eyJrIjoiY2U3NjQ4NmItMTdmZC00ZDYzLWI4YWYtZGRlZjhkNzY4ZTc4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9
 
 ## 🔎 Objetivo
 Dashboard desenvolvido para análise de indicadores e apoio à tomada de decisão,
